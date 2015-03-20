@@ -1,4 +1,4 @@
-//package chap0;
+package chap0;
 public class Fixsize {
 public static void main(String[] args) {
  long begintime = System.currentTimeMillis();
